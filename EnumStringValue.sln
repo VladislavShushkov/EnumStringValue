@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumStringValue", "EnumStringValue\EnumStringValue.csproj", "{CDBCFFFA-8329-4373-A631-01A47F55477F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumStringValue.Json", "EnumStringValue.Json\EnumStringValue.Json.csproj", "{3746C2C8-A1FA-46E1-A985-6ABB36AE2E10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDBCFFFA-8329-4373-A631-01A47F55477F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDBCFFFA-8329-4373-A631-01A47F55477F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDBCFFFA-8329-4373-A631-01A47F55477F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDBCFFFA-8329-4373-A631-01A47F55477F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3746C2C8-A1FA-46E1-A985-6ABB36AE2E10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3746C2C8-A1FA-46E1-A985-6ABB36AE2E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3746C2C8-A1FA-46E1-A985-6ABB36AE2E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3746C2C8-A1FA-46E1-A985-6ABB36AE2E10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
